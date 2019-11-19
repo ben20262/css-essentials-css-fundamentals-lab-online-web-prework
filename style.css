@@ -10,3 +10,10 @@ header {
 img {
   margin: 1000;
 }
+
+header:a {
+  display: block;
+  margin-left: auto;
+  margin_right: auto;
+}
+
