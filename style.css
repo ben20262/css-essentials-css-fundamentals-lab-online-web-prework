@@ -8,5 +8,7 @@ header {
 }
 
 img {
-  display: inline-block;
+  position: absolute;
+  left: 50%;
+
 }
