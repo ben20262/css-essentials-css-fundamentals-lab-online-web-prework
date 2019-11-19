@@ -10,6 +10,8 @@ header {
 img {
   display: block;
   margin-left: auto;
+  margin_right: auto;
+  width: 40%;
 }
 
 header:a {
