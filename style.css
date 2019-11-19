@@ -21,3 +21,7 @@ header a {
   padding-right: 10px;
   background-color: grey;
 }
+
+#featured-property p {
+  width: 800px;
+}
