@@ -23,6 +23,6 @@ header a {
 }
 
 #featured-property p {
-  text-align: center;
+  align: center;
   width: 800px;
 }
